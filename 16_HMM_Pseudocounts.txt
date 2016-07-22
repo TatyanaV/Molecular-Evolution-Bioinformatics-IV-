@@ -1,0 +1,12 @@
+0.334 0.01
+--------
+A B C D E
+--------
+AE-
+E-E
+BED
+EED
+EED
+EED
+AED
+EED

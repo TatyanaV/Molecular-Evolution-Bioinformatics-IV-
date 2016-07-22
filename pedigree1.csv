@@ -1,0 +1,12 @@
+famid id momid dadid affection age proband female genotype x y textMaleGene1 textMaleDash textMaleGene2 textMaleGene1Color textMaleGene2Color textMaleIdentifier maleFillColor
+1 1 0 0 2 50 0 1 2 3 1 + / - red blue Dad blue
+1 2 0 0 1 50 0 0 2 2 1 + / - red blue Dad blue
+1 3 1 2 2 50 0 1 2 1.5 2 + / - red blue Dad blue
+1 4 0 0 1 50 0 0 2 0.5 2 + / - red blue Dad blue
+1 5 1 2 2 50 0 1 2 3.5 2 + / - red blue Dad blue
+1 6 0 0 1 50 0 0 2 2.5 2 + / - red blue Dad blue
+1 7 3 4 1 50 0 0 2 0 3 + / - red blue Dad blue
+1 8 5 6 2 50 1 0 2 3 3 + / - red blue Dad blue
+1 9 3 4 1 50 0 0 2 1 3 + / - red blue Dad blue
+1 10 3 4 2 50 0 1 2 2 3 + / - red blue Dad blue
+
